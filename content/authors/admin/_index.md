@@ -46,7 +46,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/kamarul6970
+  link: https://twitter.com/kamarul6907
   label: Follow me on Twitter
   display:
     header: true
