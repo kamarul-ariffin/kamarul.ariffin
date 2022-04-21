@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kamarul Ariffin
+title: Kamarul Ariffin Mansor
 
 # Is this the primary user of the site?
 superuser: true
